@@ -8,7 +8,7 @@
 
 - 📫 How to reach me  through [email](mailto:georgewainaina18@gmail.com)
 
-- ⚡ I work at BET Software [website](https://betsoftware.com/) as a Senior Software Engineer
+- ⚡ I work at [BET Software](https://betsoftware.com/) as a Senior Software Engineer
 
 
 <h3 align="left">Languages and Tools:</h3>
