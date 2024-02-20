@@ -4,7 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=swagfin&label=Profile%20views&color=0e75b6&style=flat" alt="swagfin" /> 
 </p>
 
-- 👨‍💻 My public repos are available here [here](https://github.com/swagfin?tab=repositories)
+- 👨‍💻 My public repos are available [here](https://github.com/swagfin?tab=repositories)
 
 - 📫 How to reach me  through [email](mailto:georgewainaina18@gmail.com)
 
